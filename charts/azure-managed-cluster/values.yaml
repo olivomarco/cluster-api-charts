@@ -48,7 +48,7 @@ controlplane:
 
   ## Network Plugin "kubenet" or "azure"
   networkPlugin: "azure"
-  networkPluginMode: "Overlay"
+  networkPluginMode: "overlay"
   sshPublicKey: ""
   outboundType: "loadBalancer"
   dnsServiceIP: ""
