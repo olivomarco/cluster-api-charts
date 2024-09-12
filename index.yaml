@@ -1,0 +1,32 @@
+apiVersion: v1
+entries:
+  azure-aks-aso:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-09-12T14:38:27.124979794+02:00"
+    description: A chart describing an AKS cluster for CAPZ using the ASO API
+    digest: d85f11de0733dd351b4f3e90125a6d67a08cf1ae29a643af376cfa5e878ddfbf
+    maintainers:
+    - email: Matt.Boersma@microsoft.com
+      name: mboersma
+    name: azure-aks-aso
+    type: application
+    urls:
+    - https://olivomarco.github.io/cluster-api-charts/azure-aks-aso-0.4.0.tgz
+    version: 0.4.0
+  azure-managed-cluster:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-12T14:38:27.126370598+02:00"
+    description: A Helm chart to deploy an AKS cluster via the cluster-api-provider-azure
+      ManagedCluster
+    digest: 2b7bede941a7bcc0e1420efc9d09b7c6ad5e6c7d69f1648a2e5ca11b6af2a987
+    maintainers:
+    - email: jt572@cornell.edu
+      name: Jont828
+    name: azure-managed-cluster
+    type: application
+    urls:
+    - https://olivomarco.github.io/cluster-api-charts/azure-managed-cluster-0.2.4.tgz
+    version: 0.2.4
+generated: "2024-09-12T14:38:27.12369374+02:00"
