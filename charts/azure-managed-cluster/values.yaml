@@ -15,7 +15,7 @@ cluster:
   nodeResourceGroupName: ""
 
   ## The location of the cluster
-  location: eastus
+  location: italynorth
 
   ## the subnet
   cidrBlocks:
